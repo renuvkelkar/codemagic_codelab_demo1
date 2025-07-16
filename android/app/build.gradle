@@ -6,7 +6,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.codemagic_codelab_demo1"
+    namespace = "com.test.codemagic_codelab_demo1"
     compileSdk = flutter.compileSdkVersion
     ndkVersion = flutter.ndkVersion
 
